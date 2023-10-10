@@ -11,6 +11,12 @@ body {
     background-size: cover;
     position: relative;
 }
+@media screen and (max-width: 800px) {
+    .background-header {
+        background-image: url("https://images.alphacoders.com/124/1248205.jpg");
+        background-position: calc(100% - 20%);
+    }
+}
 
 .service-style {
     margin-top: 15px;
