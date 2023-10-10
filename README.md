@@ -30,6 +30,10 @@ This project is designed to help you learn Bootstrap 5 by building a series of r
 5. **Contact Page**
    - Provide contact information and a simple contact form
 
+### Live Demo
+
+Check out the live demo [here](https://raefelian.github.io/LearnBootstrap5/).
+
 ## Contributing
 
 If you'd like to contribute or report issues, please feel free to open an [issue](https://github.com/Raefelian/LearnBootstrap5/issues) or create a [pull request](https://github.com/Raefelian/LearnBootstrap5/pulls).
